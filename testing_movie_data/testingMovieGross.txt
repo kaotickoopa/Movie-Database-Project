@@ -1,0 +1,6 @@
+Rank	Title	Year	USA Box Office
+1   The Extra Credit Project   2024   2
+2	Batman 4   2000    100
+3	Mr. Monkey Man   2024    502
+4   Space Meteors from Space  1902   1000
+5   Django UnChained   2016    3231
